@@ -41,7 +41,7 @@ Just double-click `index.html` — it opens directly in any web browser.
 ## How to Customise
 
 ### Change Your Name
-Open `index.html` and find/replace `Dan` with your own name.  
+Open `index.html` and find/replace `victoria` with your own name.  
 Also update the `<title>` tag inside `<head>`.
 
 ### Replace Project Images
